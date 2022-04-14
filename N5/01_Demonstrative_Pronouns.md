@@ -1,11 +1,11 @@
 ＃　こ・そ・あ・ど
 
 
-|                            | こ　　　    | そ  　　　　　| あ 　　　　　　| ど 　　　　　|
-| ------                     | ------    | ------       | ------       | ------    |
-| Things                     | これ       | それ         | あれ           | どれ      |
-| Thing/Person               | この       | その          | あの          | どの      |
-| Place                      | ここ       | そこ          | あそこ         | どこ     |
+|                            | こ　(near to speaker) | そ (Near to listner) | あ (Far from both) | ど (Unknown) |
+| ------                     | ------               | ------       | ------       | ------    |
+| Things                     | これ                 | それ         | あれ           | どれ      |
+| Thing/Person               | この                 | その          | あの          | どの      |
+| Place                      | ここ                 | そこ          | あそこ         | どこ     |
 | Direction/Place (Polite)   | こちら      | そちら        | あちら        | どちら    |
 
 **例文　（れいぶん）（Example)**
