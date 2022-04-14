@@ -6,7 +6,7 @@
 | Things                     | これ       | それ         | あれ           | どれ      |
 | Thing/Person               | この       | その          | あの          | どの      |
 | Place                      | ここ       | そこ          | あそこ         | どこ     |
-| Direction/Place (Polite)   | こちら      | そちら        | あちら        | そちら    |
+| Direction/Place (Polite)   | こちら      | そちら        | あちら        | どちら    |
 
 **例文　（れいぶん）（Example)**
 
